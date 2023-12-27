@@ -1,0 +1,115 @@
+1763  mkdir hw
+
+ 1764  ll
+
+ 1765  cd hw
+
+ 1766  cat pets.txt
+
+ 1767  cat>Pets.txt
+
+ 1768  ll
+
+ 1769  rm Pets.txt
+
+ 1770  ll
+
+ 1771  clear
+
+ 1772  cat>Pets.txt
+
+ 1773  cat>Pack_animals.txt
+
+ 1774  ll
+
+ 1775  cat 'Pets.txt' 'Pack_animals.txt' > allpets.txt
+
+ 1776  cat allpets.txt
+
+ 1777  mv allpets.txt 'Human Friends.txt'
+
+ 1778  ls
+
+ 1779  $history 20
+
+ 1780  cd
+
+ 1781  $ history
+
+ 1782  history
+
+ 1783  ls
+
+ 1784  ll
+
+ 1785  cd hw/
+
+ 1786  ll
+
+ 1787  mkdir Pets
+
+ 1788  mv 'Human Friends.txt' Pets/
+
+ 1789  tree
+
+ 1790  cd
+
+ 1791  mysql
+
+ 1792  sudo apt install mysql
+
+ 1793  sudo apt update
+
+ 1794  sudo apt upgrade
+
+ 1795  dpkg -l
+
+ 1796  apt purge mysql-server-8.0
+
+ 1797  sudo apt purge mysql-server-8.0
+
+ 1798  dpkg -r mysql
+
+ 1799  sudo dpkg -r mysql
+
+ 1800  sudo apt purge mysql-client-8.0
+
+ 1801  sudo apt purge mysql-client-core-8.0,mysql-common,mysql-server-core-8.0
+
+ 1802  sudo apt purge mysql-client-core-8.0
+
+ 1803  sudo apt purge mysql-common
+
+ 1804  sudo apt purge mysql-server-core-8.0
+
+ 1805  apt list mysql
+
+ 1806  sudo wget https://dev.mysql.com/get/mysql-apt-config_0.8.23-1_all.deb
+
+ 1807  sudo dpkg -i mysql-apt-config_0.8.23-1_all.deb
+
+ 1808  sudo apt-get update
+
+ 1809  sudo apt-get install mysql-server
+
+ 1810  sudo wget https://download.docker.com/linux/ubuntu/dists/jammy/pool/stable/amd64/docker-ce-cli_20.10.13~3-0~ubuntu-jammy_amd64.deb
+
+ 1811  sudo dpkg -i docker-ce-cli_20.10.133-0ubuntu-jammy_amd64.deb
+
+ 1812  sudo dpkg -i docker-ce-cli_20.10.13~3-0~ubuntu-jammy_amd64.deb
+
+ 1813  sudo dpkg -r docker-ce-cli
+
+ 1814  sudo dpkg -r docker-ce-cli_20.10.13~3-0~ubuntu-jammy_amd64.deb
+
+ 1815  sudo dpkg -l
+
+ 1816  sudo dpkg -r docker-ce-cli
+
+ 1817  sudo dpkg -r docker-ce
+
+ 1818  sudo dpkg -r docker-ce-cli
+
+ 
+
+ 1829  history 70 >> 'Sinev Alexander Vladimirovich1, 19.12.2023,4619.txt'
